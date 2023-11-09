@@ -1,7 +1,8 @@
 # Lean Software Development
 
 On a choisi de présenter la Lean Software Devlopment 
-Pourquoi ce choix ? : Après s'être rapidement documenté sur les différentes méthode agiles à présenter, on a compris de la méthode du Lean Software Development qu'elle avait une approche basée sur l'efficacité, la flexibilité et l'orientation client, et donque c'était un choix judicieux pour les projets axés sur la satisfaction du client ce qui nous a semblé très important et donc très intéressant. De plus, la LSD vise à éliminer les activités qui n'ajoutent pas de valeur au produit final ce qui permet d'optimiser le processus de développement et d'utiliser les ressources de manière bien plus efficace.
+Pourquoi ce choix ? : 
+Après s'être rapidement documenté sur les différentes méthode agiles à présenter, on a compris de la méthode du Lean Software Development qu'elle avait une approche basée sur l'efficacité, la flexibilité et l'orientation client, et donque c'était un choix judicieux pour les projets axés sur la satisfaction du client ce qui nous a semblé très important et donc très intéressant. De plus, la LSD vise à éliminer les activités qui n'ajoutent pas de valeur au produit final ce qui permet d'optimiser le processus de développement et d'utiliser les ressources de manière bien plus efficace.
 
 # L'organisation du projet 
 ## 08/09 - 15/09 - 22/09 
@@ -32,10 +33,12 @@ On poursuit notre apprentissage de git en se documentant sur différents sites e
 
 On a fait un `git clone` du repository de cours de M.Launnay pour avoir sur notre machine les cours et également tester la commande. Tout va bien on a eu sur nos machines respectives tous les dossiers/fichiers.
 Dans le même temps on commence à se documenter sur la Lean Software Devlopment 
+
 ## 29/09
 
 Les commandes git sont assez claires on a fait un fichier pour clarifier la situation et surotut avoir les commandes essentielles de git. Celui-ci sera sur notre repo. 
 Voici des commandes git importantes :
+
 -> git --version = version et verif que bien installé 
 -> git init  = Premiere commande a taper sur chaque projet si on veut l'initialiser en tant que depot git  => et enft ca crée un dossier caché .git (qu'on peut voir si on fait ls -a (et pas ls tout simple))
 -> git add = tracker des fichiers 
